@@ -36,6 +36,7 @@
 - numpy
 - pywt
 - os
+
 <b> Нормализация и стандартизация:  </b>
 - sklearn.preprocessing
 
